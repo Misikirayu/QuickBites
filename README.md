@@ -27,8 +27,9 @@ This is a small meal application built using React and TailwindCSS. The app allo
 4. Start the development server:
    ```bash
    npm run dev
-Screenshot
-  (https://github.com/Misikirayu/QuickBites/blob/main/QuickBites.png)
+## Screenshot
+
+![App Screenshot](https://github.com/Misikirayu/QuickBites/blob/main/QuickBites.png)
 
 
 
